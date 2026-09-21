@@ -13,7 +13,7 @@
 
   <groupId>com.mds</groupId>
   <artifactId>spring-error-pattern</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.6-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>spring-error-pattern</name>
   <description>A reusable Spring Boot library that provides a standardized way to handle exceptions, format error responses, and manage global error handling across APIs.</description>
